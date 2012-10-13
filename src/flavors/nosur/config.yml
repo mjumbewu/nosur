@@ -20,7 +20,7 @@ map:
     maxZoom: 17
   base_layer:
     url: http://{s}.tiles.mapbox.com/v3/examples.map-a1dcgmtr/{z}/{x}/{y}.png
-    attribution: 'Map tiles &copy; <a href="http://www.nyc.gov/doitt/">New York City DoITT</a>. Based on the latest planimetric data.'
+    attribution: '&copy; OpenStreetMap contributors, CC-BY-SA. <a href="http://mapbox.com/about/maps" target="_blank">Terms &amp; Feedback</a>'
   layers: []
 
 # The keys show up in the dropdown list when you are adding a new place
